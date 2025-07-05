@@ -14,7 +14,7 @@ obtained from internet archives.
 
 Repositories which were used for team projects (both high school and
 college) are available in both source code and Git repository form. 
-If the souce code for a team project is not available on Ad's website,
+If the source code for a team project is not available on Ad's website,
 it is likely that it is not allowed to share the code for the project
 publicily due to copyright laws. With those terms in mind, the source code
 can be shared for personal use only - redistributing this source code
@@ -22,15 +22,3 @@ could be a violation of trademark and copyright law. Should a member of such a
 team need the repository with commit history available as a link, they
 will be shared a link to the Devi Nivas Open-Source Applications (DOSA)
 GitLab server, whenever it is ready.
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
